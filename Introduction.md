@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AdityaBarnwal15
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Aditya
+- 👀 I’m interested in upgrading my skills
+- 🌱 I’m currently pursuing B.Tech
+- 💞️ I’m looking for new opportunities
 - 📫 How to reach me ...
 - Linkedin  -  https://www.linkedin.com/in/aditya-barnwal-185372256/
 
