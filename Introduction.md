@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya
-- 👀 I’m interested in upgrading my skills
 - 🌱 I’m currently pursuing B.Tech
+- 👀 I’m a Front-end Web Developer and continuously upgrading my skills
 - 💞️ I’m looking for new opportunities
 - 📫 How to reach me ...
 - Linkedin  -  https://www.linkedin.com/in/aditya-barnwal-185372256/
