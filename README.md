@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B110F7&width=435&lines=Welcome+to+my+profile+!!+%F0%9F%9A%80;Aditya+Here+!!+%F0%9F%91%8B)](https://git.io/typing-svg)
 # 💫 About Me:
-🔭 I’m currently a CSE student at NSHM Institute of Engineering and Technology<br>👯 I’m looking to collaborate on MERN, Next.js, and Machine Learning projects<br>🌱 I’m currently learning Next.js and exploring ML concepts<br>💬 Ask me about MERN stack, Next.js, or beginner-level Machine Learning
+🔭 I’m currently a CSE student at NSHM Institute of Engineering and Technology<br>👯 I’m looking to collaborate on MERN, Next.js, and Machine Learning projects<br>🌱 I’m currently learning RNext.js and exploring ML concepts<br>💬 Ask me about MERN stack, Next.js, or beginner-level Machine Learning
 
 
 ## 🌐 Socials:
@@ -12,6 +12,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=AdityaBarnwal15&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AdityaBarnwal15&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBarnwal15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AdityaBarnwal15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaBarnwal15&limit=5&theme=dark&combine_all_yearly_contributions=true)
