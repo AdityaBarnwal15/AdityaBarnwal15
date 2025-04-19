@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B110F7&width=435&lines=Welcome+to+my+profile+!!+%F0%9F%9A%80;Aditya+Here+!!+%F0%9F%91%8B)](https://git.io/typing-svg)
 # 💫 About Me:
-🔭 I’m currently a CSE student at NSHM Institute of Engineering and Technology<br>👯 I’m looking to collaborate on MERN, Next.js, and Machine Learning projects<br>🌱 I’m currently learning RNext.js and exploring ML concepts<br>💬 Ask me about MERN stack, Next.js, or beginner-level Machine Learning
+🔭 I’m currently a CSE student at NSHM Institute of Engineering and Technology<br>👯 I’m looking to collaborate on MERN, Next.js, and Machine Learning projects<br>🌱 I’m currently learning Next.js and exploring ML concepts<br>💬 Ask me about MERN stack, Next.js, or beginner-level Machine Learning
 
 
 ## 🌐 Socials:
